@@ -6,7 +6,7 @@ A beginner-friendly Flutter app to learn basic Japanese words (Numbers, Family M
 
 ## ✨ Features
 
-- 🔊 Play audio pronunciation for each word using the `audioplayers`
+- 🔊 Play audio pronunciation for each word 
 - 🧩 Learn Japanese Numbers and Family Members with images
 - 🔃 Reusable widget components for list views and item rendering  
 - 📁 Organized project structure with clearly separated models, data, and assets  
