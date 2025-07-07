@@ -1,6 +1,6 @@
 # 🇯🇵 Flutter Japanese Language Learning App
 
-A beginner-friendly Flutter app to learn basic Japanese words (Numbers, Family Members) with images and native audio.
+A beginner-friendly **Flutter** app to learn basic Japanese words (Numbers, Family Members) with images and native audio.
 
 ---
 
